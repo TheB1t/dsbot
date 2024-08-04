@@ -1,0 +1,7 @@
+discord.py
+sqlalchemy
+mysql-connector-python
+beautifulsoup4
+PyNaCl
+yt_dlp
+google-api-python-client

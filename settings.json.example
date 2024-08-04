@@ -1,0 +1,10 @@
+{
+    "db_ip": "",
+    "db_port": 3306,
+    "db_user": "",
+    "db_pass": "",
+    "db_db": "",
+
+    "token": "",
+    "google_api_key": ""
+}
